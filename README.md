@@ -69,5 +69,5 @@ To create a machine learning pipeline that can distinguish between real and fake
 -  Google Drive link for large files added
 
 OUTPUT:
-
+![Image](https://github.com/user-attachments/assets/a5bb3d19-30a9-4b57-a2ff-185f58b7d082)
 
