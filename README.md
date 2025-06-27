@@ -56,7 +56,7 @@ To create a machine learning pipeline that can distinguish between real and fake
 
 -Download the datasets from Google Drive
 
--Open fake_news_detection.ipynb and run the cells
+-Open fake_news_model.ipynb and run the cells
 
 ## ✅ Project Status
 
