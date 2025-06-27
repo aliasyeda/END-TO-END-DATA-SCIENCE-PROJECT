@@ -58,6 +58,28 @@ To create a machine learning pipeline that can distinguish between real and fake
 
 -Open fake_news_model.ipynb and run the cells
 
+Clone the repository or download the files
+
+Make sure Flask or Streamlit is installed
+
+Run the API:
+
+▶️ Using Flask:
+python app.py
+
+▶️ Using Streamlit:
+streamlit run app.py
+
+Open browser at:
+
+Flask: http://127.0.0.1:5000/
+
+Streamlit: auto-launches or go to http://localhost:8501/
+
+Enter a news article's title/text to get a prediction
+
+
+
 ## ✅ Project Status
 
 -  Data preprocessing (cleaning true and fake news)
